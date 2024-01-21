@@ -47,7 +47,7 @@ The main purpose of `k3d` is to run a `k3s` cluster in Docker containers. It's p
 
 k3d + test container
 
-![k3d + test container](../assets/632552.gif)
+![k3d + test container](./assets/concept/demo.gif)
 
 ## Conclusion
 
